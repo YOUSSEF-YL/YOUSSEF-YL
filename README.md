@@ -6,7 +6,7 @@
 - 💼 &nbsp; Working as self employed web dev.
 <!-- - 🎓 &nbsp;  1373 student . -->
 - 🌱 &nbsp; Currently learning more about asp.net & vue.js .
-- 👨‍💻 &nbsp; junior back-end developer .
+- 👨‍💻 &nbsp; junior back-end Web developer .
 
 ### LANGUAES & Frameworks:
  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel" alt="laravel" width="80" height="80"/>&nbsp;
@@ -37,5 +37,7 @@
  [![wakatime](https://wakatime.com/badge/user/438addc9-46da-4009-8a94-37927c4a1ab3.svg)](https://wakatime.com/@438addc9-46da-4009-8a94-37927c4a1ab3)
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUSSEF-YL&theme=dark&background=000000)](https://git.io/streak-stats)
+ 
+
 
   
