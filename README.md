@@ -1,6 +1,6 @@
 <h3> 🙋‍♂️  HI There </h3>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="800px" max-width="800px" width="800px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="800px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 - 🤔 &nbsp; Im Exploring new technologies and developing software solutions.
 - 💼 &nbsp; Working as self employed web dev.
