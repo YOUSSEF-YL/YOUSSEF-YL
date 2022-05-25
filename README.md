@@ -31,13 +31,11 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"  />
   </a>
 </div>
- 
-  
- 
-  
-  
-          
 
+ ### :fire: My Stats :
+  
+ [![wakatime](https://wakatime.com/badge/user/438addc9-46da-4009-8a94-37927c4a1ab3.svg)](https://wakatime.com/@438addc9-46da-4009-8a94-37927c4a1ab3)
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUSSEF-YL&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![wakatime](https://wakatime.com/badge/user/438addc9-46da-8009-8a94-37927c4a1ab3.svg)](https://wakatime.com/@438addc9-46da-8009-8a94-37927c4a1ab3)
-
+  
