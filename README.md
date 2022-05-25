@@ -21,14 +21,14 @@
 
 ### Where to find me:
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" href="https://www.linkedin.com/in/youssef-bachar-b18614195/"/>
+  <a href="https://www.linkedin.com/in/youssef-bachar-b18614195/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmai Badge" href="mailto:youssef.bachar7@gmail.com"/>
+  <a href="mailto:youssef.bachar7@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmai Badge" />
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"  href="https://twitter.com/JosephBachar"/>
+  <a href="https://twitter.com/JosephBachar">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"  />
   </a>
 </div>
  
