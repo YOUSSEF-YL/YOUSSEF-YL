@@ -19,6 +19,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>&nbsp;
    <img  style="color:blue;" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL"  alt="SQL" width="80" height="80" />&nbsp;
 
+### Where to find me:
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" href="https://www.linkedin.com/in/youssef-bachar-b18614195/"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmai Badge" href="mailto:youssef.bachar7@gmail.com"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"  href="https://twitter.com/JosephBachar"/>
+  </a>
+</div>
  
   
  
