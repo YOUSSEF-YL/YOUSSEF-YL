@@ -3,7 +3,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="800px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 - 🤔 &nbsp; Im Exploring new technologies and developing software solutions.
-- 💼 &nbsp; Working as self employed web dev.
 <!-- - 🎓 &nbsp;  1373 student . -->
 - 🌱 &nbsp; Currently learning more about asp.net & vue.js .
 - 👨‍💻 &nbsp; junior back-end Web developer .
