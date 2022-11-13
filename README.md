@@ -31,6 +31,9 @@
   <a href="https://twitter.com/JosephBachar">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"  />
   </a>
+   <a href="https://www.instagram.com/yl.bachar/">
+    <img src="https://img.shields.io/badge/instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"  />
+  </a>
 </div>
 
  ### :fire: My Stats :
